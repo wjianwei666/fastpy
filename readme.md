@@ -102,18 +102,14 @@ There are also interactive best practices:
 
 Please consider sharing a post about [roadmap.sh](https://roadmap.sh) and the value it provides. It really does help!
 
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit)](https://reddit.com/submit?url=https://roadmap.sh&title=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-hacker%20news-orange?logo=ycombinator)](https://news.ycombinator.com/submitlink?u=https://roadmap.sh)
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-twitter-03A9F4?logo=twitter)](https://twitter.com/share?url=https://roadmap.sh&text=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://roadmap.sh)
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://www.linkedin.com/shareArticle?url=https://roadmap.sh&title=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
 
 ## Development
 
 Clone the repository, install the dependencies and start the application
 
 ```bash
-git clone git@github.com:kamranahmedse/developer-roadmap.git
+git clone https://github.com/wjianwei666/fastpy.git
+ 2、安装依赖
 cd developer-roadmap
 npm install
 npm run dev
@@ -122,7 +118,8 @@ npm run dev
 Note: use the `depth` parameter to reduce the clone size and speed up the clone.
 
 ```sh
-git clone --depth=1 https://github.com/kamranahmedse/developer-roadmap.git
+git clone --depth=1 https://github.com/wjianwei666/fastpy.git
+ 2、安装依赖
 ```
 
 ## Contribution
@@ -137,9 +134,6 @@ git clone --depth=1 https://github.com/kamranahmedse/developer-roadmap.git
 
 ## Thanks to all contributors ❤
 
- <a href = "https://github.com/kamranahmedse/developer-roadmap/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=kamranahmedse/developer-roadmap"/>
- </a>
 
 ## License
 
